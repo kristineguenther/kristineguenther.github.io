@@ -1,0 +1,39 @@
+body{
+    background-color: lightpink;
+}
+img {
+/*
+    width: 50%;
+    border: red solid 10px;
+    padding: 20px;
+    padding: 20px 10px 5px 30px;
+    margin: 30px; 
+    position: relative;
+    left: 50px; 
+*/
+}
+.cipecode{
+    background-image: url("img/cipecode.jpg");
+    background-size: cover;
+}
+
+.myButtonClass {
+  background-color: deeppink;
+  color: white;
+}
+
+.myButtonClass {
+  background-color: deeppink;
+  color: white;
+}
+
+.myButtonClass {
+  background-color: deeppink;
+  color: white;
+}
+
+
+endbutton {
+  background-color: deeppink;
+  color: white;
+}
